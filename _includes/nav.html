@@ -1,0 +1,11 @@
+<ul class="links">
+      <li class="{% if page.url == "/" %} active {% endif %}">
+            <a href="{{ "/" | absolute_url }}">English</a>
+      </li>
+      <li class="{% if page.url contains '/german/' %} active {% endif %}">
+            <a href="{{ "/german/" | absolute_url }}">German</a>
+      </li>
+      <li class="{% if page.url contains '/hebrew/' %} active {% endif %}">
+            <a href="{{ "/hebrew/" | absolute_url }}">Hebrew</a>
+      </li>
+</ul>
