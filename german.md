@@ -6,7 +6,7 @@ description: "Wir heiraten - 12. August, Pembroke Lodge, 15:00"
 
 {% include pembroke-lodge-aerial.html %}
 
-### Our Wedding
+### Unsere Hochzeit
 
 Wir laden euch herzlichst ein, unsere Hochzeit mit uns zu teilen. Es findet am
 12\. August im Belvedere Saal, Pembroke Lodge, Richmond Park, TW10 5HX statt.
