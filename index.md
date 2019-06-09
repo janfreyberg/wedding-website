@@ -25,11 +25,11 @@ National Rail services from Waterloo, Vauxhall and Clapham Junction. From
 Richmond Station, Pembroke Lodge is around 10 minutes by taxi or 40 minutes on
 foot.
 
-Once you are inside Richmond Park, please go to Petersham Car Park which is off
+Once you are inside Richmond Park, Petersham Car Park is off
 Queen's Road. Pembroke Lodge is directly behind the car park.
 
-Pembroke Lodge has a car park which is free of charge. Please allow some extra
-time to find a space as it can be busy. You can leave a car overnight with a
+If you are driving, the car park is free of charge. Please allow some extra
+time to find a space as it can be busy. You can leave your car overnight with a
 parking permit which is easily obtained from Pembroke Lodge staff when you
 arrive.
 
@@ -43,7 +43,7 @@ After dusk, you will only be able to exit the park via Richmond Gate. Pembroke
 Lodge recommends that guests arrange transport out of the park to avoid the
 deer.
 
-If you will need a taxi, prebooking is recommended. Local taxi companies
+If you need a taxi, prebooking is recommended. Local taxi companies
 include:
 
 - Parker Cars: 0208 560 0000
