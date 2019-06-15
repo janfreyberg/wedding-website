@@ -4,6 +4,14 @@
 
 $background_image: '{{site.background_image}}';
 
+.post-hebrew * {
+	text-align: right !important;
+}
+
+.post-hebrew ul * {
+	text-align: left !important;
+}
+
 @import 'libs/vars';
 @import 'libs/functions';
 @import 'libs/mixins';

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-hebrew
 title: Jan & Isi
 description: "אנחנו מתחתנים בתאריך 12 לאוגוסט 2019, בפמברוק לודג', אולם אירועים בלב פארק ריצמונד, בשעה 3 אחר הצהריים."
 ---
@@ -64,5 +64,5 @@ Richmond Park, TW10 5HX
 להלן בתי מלון קרובים מאוד לשער הפארק Richmond Gate :
 
 - The Petersham Hotel, Richmond
-- Harbour Hotel 
+- Harbour Hotel
 - Richmond Hill Hotel
