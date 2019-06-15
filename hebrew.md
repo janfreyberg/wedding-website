@@ -10,9 +10,9 @@ description: "אנחנו מתחתנים בתאריך 12 לאוגוסט 2019, ב�
 
 ### יום הנישואין שלנו
 
-בואו לחגוג עימנו את יום הנישואין שלנו שיערך ב 12 לאוגוסט באולם האירועים The
-Belvedere, Pembroke Lodge, Richmond Park, TW10 5HX נא להגיע בשעה 2.30, טקס
-הכלולות יתחיל בשעה 3 אחר הצהריים בדיוק.
+בואו לחגוג עימנו את יום הנישואין שלנו שיערך ב 12 לאוגוסט באולם האירועים The Belvedere, Pembroke Lodge,
+Richmond Park, TW10 5HX 
+נא להגיע בשעה 2.30, טקס הכלולות יתחיל בשעה 3 אחר הצהריים בדיוק.
 
 {% capture rsvp %}
 {% include rsvp-button.html %}
@@ -23,7 +23,7 @@ Belvedere, Pembroke Lodge, Richmond Park, TW10 5HX נא להגיע בשעה 2.30
 
 ### איך מגיעים?
 
-תחנת הרכבת הקרובה ביותר לריצ'מונד פארק היא Richmond Station. מגיעים לתחנת Richmond Station באמצעות ה- National Rail או באמצעות קו  District line של הרכבת התחתית. ממרכז לונדון אפשר לתפוס רכבת לריצ'מונד בתחנות המרכזיות הבאות: Waterloo, Vauxhall, Clapham Junction. מתחנת הרכבת בריצ'מונד הולכים ברגל 40 דקות  או נוסעים במונית כ 10 דקות.
+תחנת הרכבת הקרובה ביותר לריצ'מונד פארק היא Richmond Station. מגיעים לתחנת Richmond Station באמצעות ה- National Rail או באמצעות קו  District line של הרכבת התחתית. ממרכז לונדון אפשר לתפוס רכבת לריצ'מונד בתחנות המרכזיות הבאות: Waterloo, Vaxhall, Clapham Junction. מתחנת הרכבת בריצ'מונד הולכים ברגל 40 דקות  או נוסעים במונית כ 10 דקות. 
 
 {% include map.html %}
 
@@ -52,8 +52,8 @@ Belvedere, Pembroke Lodge, Richmond Park, TW10 5HX נא להגיע בשעה 2.30
 
 ## ואם הגעתם מוקדם…
 
-יש נקודת תצפית ונוף מקסים של קתדרלת סנט פול מ King Henry's Mound כמה דקות הליכה
- מהאולם. המשיכו הלאה ל Poets' Corner.
+יש נקודת תצפית ונוף מקסים של קתדרלת סנט פול מ King Henry's Mound 
+ כמה דקות הליכה מהאולם. המשיכו הלאה לPoets' Corner.
 
  [באתר זה יש גם המלצות טובות.](http://www.hakolal.co.il/לונדון/אזורים-מרכזיים-בלונדון/ריצמונד-richmond/)
 
@@ -61,8 +61,8 @@ Belvedere, Pembroke Lodge, Richmond Park, TW10 5HX נא להגיע בשעה 2.30
 
 ## בתי מלון קרובים לפארק
 
-להלן בתי מלון קרובים מאוד לשער הפארק Richmond Gate:
+להלן בתי מלון קרובים מאוד לשער הפארק Richmond Gate :
 
 - The Petersham Hotel, Richmond
-- Richmond Harbour Hotel
+- Harbour Hotel 
 - Richmond Hill Hotel
